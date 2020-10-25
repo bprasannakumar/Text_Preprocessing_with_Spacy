@@ -14,4 +14,4 @@ We can perform the following preprocessing tasks using spaCy:
 
 Explore the notebook for examples.
 
-# Note: Need to install spacy in your environment in order to execute this notebook.
+## Note: Need to install spacy in your environment in order to execute this notebook.
